@@ -1,3 +1,4 @@
+//This is a sample test
 Feature: User tries to login to website
 
   Scenario Outline: User login
