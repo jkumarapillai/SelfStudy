@@ -11,3 +11,6 @@ Feature: User tries to login to website
       | username | password |
       | jaya     |    12345 |
       | aaaa     |    12345 |
+
+      
+      Feature: this is a new feature 2
