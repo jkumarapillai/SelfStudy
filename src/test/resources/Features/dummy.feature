@@ -3,4 +3,4 @@ Scenario: When user is dummy
 Given user is dummy
 When dummy access the system
 And dummy login is successful
-//Then dummy homepage is displayed..11/08-monday-11.31am
+Then dummy homepage is displayed..11/08-monday-11.31am
